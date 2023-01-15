@@ -1,9 +1,9 @@
-<h1 align="center"> Hello There! </h1>
+<h1 align="center"> Hello There! <img src="https://github.com/willy-guenard/willy-guenard/tree/main/assets/steins-gate.png width="32" height="32"/></h1>
 
 <br/>
 
 <div align="center">           
-          <img src="https://github.com/willy-guenard/willy-guenard/blob/main/.github/assets/bongodev.gif" width="490" height="290"/> 
+          <img src="https://github.com/willy-guenard/willy-guenard/tree/main/assets/bongodev.gif" width="490" height="290"/> 
 </div>
 
 ## About ME 
