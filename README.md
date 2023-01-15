@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There! <img src="https://github.com/willy-guenard/willy-guenard/blob/main/assets/steins-gate.png" width="32" height="32"/></h1>
+<h1 align="center"> Hello There! <img src="https://github.com/willy-guenard/willy-guenard/blob/main/assets/steins-gate.png" width="100" height="100"/></h1>
 
 <br/>
 
