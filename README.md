@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">           
-          <img src="https://github.com/willy-guenard/willy-guenard/tree/main/assets/bongodev.gif" width="490" height="290"/> 
+          <img src="https://github.com/willy-guenard/willy-guenard/blob/main/assets/bongodev.gif" width="490" height="290"/> 
 </div>
 
 ## About ME 
