@@ -1,9 +1,9 @@
-<h1 align="center"> Hello There!<img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
+<h1 align="center"> Hello There! </h1>
 
 <br/>
 
 <div align="center">           
-          <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="490" height="290"/> 
+          <img src="https://github.com/willy-guenard/willy-guenard/blob/main/.github/assets/bongodev.gif" width="490" height="290"/> 
 </div>
 
 ## About ME 
