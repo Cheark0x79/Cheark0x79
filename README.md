@@ -8,7 +8,7 @@
 
 ## About ME 
 
-<b> I'm Willy Guenard, Devops junior</b>
+<b> I'm Willy Guenard, DevOps Engineer</b>
 
 ##  🔧  Languages & Tools
 
