@@ -1,39 +1,26 @@
-<h1 align="center"> Hello There! <img src="https://github.com/willy-guenard/willy-guenard/blob/main/assets/steins-gate.png" width="50" height="66"/></h1>
+# 👋 Hi, I'm Willy Guenard
 
-<div align="center">
-  <img src="https://github.com/willy-guenard/willy-guenard/blob/main/assets/bongodev.gif" width="400"/>
-</div>
+**DevOps Engineer** specializing in Infrastructure as Code, CI/CD, and Kubernetes orchestration.
 
----
+## 🛠️ Tech Stack
 
-## 👨‍💻 About Me  
+**Cloud & IaC:** AWS, Terraform, Ansible  
+**CI/CD & GitOps:** GitLab CI, GitHub Actions, ArgoCD  
+**Containers:** Docker, Kubernetes, Helm  
+**Monitoring:** Prometheus, Grafana  
+**Scripting:** Bash, Python, Go
 
-- DevOps Engineer (CI/CD, Kubernetes, IaC)  
-- Love to build & break things in my **homelab** (Proxmox, K3s, ArgoCD, GitLab, n8n...)  
+## 🚀 Current Focus
 
----
+- Building production-ready homelab infrastructure
+- Kubernetes & GitOps workflows
+- Infrastructure automation
 
-## 🔧 Toolbox  
+## 📫 Connect
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="45" height="45"/>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-willyguenard-blue)](https://linkedin.com/in/willyguenard)
+[![Email](https://img.shields.io/badge/Email-willy.guenard.pro%40gmail.com-red)](mailto:willy.guenard.pro@gmail.com)
 
 ---
 
-## 📌 Current  
-
-- Automating deployments with **GitLab CI/CD & Helm**  
-- Setting up **monitoring dashboards** with Grafana + Prometheus  
-- Hosting everything in my **k3s homelab**  
-
----
+💼 Open to DevOps/Cloud Engineer opportunities in Europe
